@@ -72,13 +72,3 @@ This creates a `data/` folder with `web_access.log` (6,031 lines) and `auth_audi
 
 - Run the same logs through a free SIEM such as Security Onion or Wazuh and compare its alerts to my manual findings.
 - Write simple detection rules for the cases that were hardest to see (an internal user copying files to removable media, and a service account logging in from a new source).
-
-## Files
-
-| File | Contents |
-|---|---|
-| `make_case.py` | Generates the synthetic logs |
-| `actor-profiles.md` | Actor profiles, ATT&CK research, and my committed predictions |
-| `analysis-notes.md` | Commands used and what each showed |
-| `attribution-report.md` | Findings, scorecard, recommendations, and limitations |
-| `screenshots/` | Terminal output from key steps |
