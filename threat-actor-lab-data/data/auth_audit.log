@@ -1,0 +1,990 @@
+2026-10-12 02:19:00 fileserver01 LOGIN_OK user=svc_backup src=198.51.100.18
+2026-10-12 02:29:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec23.pdf
+2026-10-12 02:39:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec38.pdf
+2026-10-12 02:49:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec21.pdf
+2026-10-12 08:07:00 fileserver01 LOGIN_OK user=kwong src=10.20.0.44
+2026-10-12 08:23:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc59.xlsx
+2026-10-12 08:30:00 fileserver01 LOGIN_OK user=mhughes src=10.20.0.41
+2026-10-12 08:47:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc37.xlsx
+2026-10-12 08:48:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc24.xlsx
+2026-10-12 09:29:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-12 09:45:00 fileserver01 LOGIN_OK user=tpatel src=10.20.0.42
+2026-10-12 09:48:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc39.xlsx
+2026-10-12 09:56:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc24.xlsx
+2026-10-12 10:12:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc16.xlsx
+2026-10-12 10:22:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc19.xlsx
+2026-10-12 10:47:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc44.xlsx
+2026-10-12 10:47:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc33.xlsx
+2026-10-12 10:57:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc22.xlsx
+2026-10-12 10:58:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc60.xlsx
+2026-10-12 11:13:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc28.xlsx
+2026-10-12 11:23:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc39.xlsx
+2026-10-12 11:38:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc24.xlsx
+2026-10-12 12:06:00 fileserver01 LOGIN_FAIL user=mhughes src=10.20.0.41
+2026-10-12 12:39:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc15.xlsx
+2026-10-12 13:01:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc12.xlsx
+2026-10-12 13:04:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc14.xlsx
+2026-10-12 13:24:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc1.xlsx
+2026-10-12 14:11:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc22.xlsx
+2026-10-12 14:42:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc26.xlsx
+2026-10-12 15:01:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc14.xlsx
+2026-10-12 16:05:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc58.xlsx
+2026-10-12 16:08:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc3.xlsx
+2026-10-12 16:22:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc45.xlsx
+2026-10-12 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-13 02:03:00 fileserver01 LOGIN_OK user=svc_backup src=203.0.113.166
+2026-10-13 02:13:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec26.pdf
+2026-10-13 02:23:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec32.pdf
+2026-10-13 02:33:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec10.pdf
+2026-10-13 02:43:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec26.pdf
+2026-10-13 08:04:00 fileserver01 LOGIN_OK user=kwong src=10.20.0.44
+2026-10-13 08:14:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-13 09:08:00 fileserver01 LOGIN_OK user=tpatel src=10.20.0.42
+2026-10-13 09:11:00 fileserver01 LOGIN_OK user=mhughes src=10.20.0.41
+2026-10-13 09:31:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc9.xlsx
+2026-10-13 09:45:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc30.xlsx
+2026-10-13 10:01:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc12.xlsx
+2026-10-13 10:04:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc4.xlsx
+2026-10-13 10:26:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc53.xlsx
+2026-10-13 10:57:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc11.xlsx
+2026-10-13 11:14:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc34.xlsx
+2026-10-13 11:38:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc20.xlsx
+2026-10-13 11:52:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc52.xlsx
+2026-10-13 12:10:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc43.xlsx
+2026-10-13 12:19:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc21.xlsx
+2026-10-13 12:41:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc60.xlsx
+2026-10-13 13:13:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc24.xlsx
+2026-10-13 13:28:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc24.xlsx
+2026-10-13 13:43:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc28.xlsx
+2026-10-13 13:46:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc51.xlsx
+2026-10-13 13:50:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc45.xlsx
+2026-10-13 13:58:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc20.xlsx
+2026-10-13 14:07:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc16.xlsx
+2026-10-13 14:23:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc3.xlsx
+2026-10-13 14:30:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc9.xlsx
+2026-10-13 14:34:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc9.xlsx
+2026-10-13 14:57:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc2.xlsx
+2026-10-13 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-14 02:13:00 fileserver01 LOGIN_OK user=svc_backup src=198.51.100.237
+2026-10-14 02:23:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec32.pdf
+2026-10-14 02:33:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec32.pdf
+2026-10-14 02:43:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec26.pdf
+2026-10-14 02:53:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec3.pdf
+2026-10-14 03:00:01 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.149
+2026-10-14 03:00:08 fileserver01 LOGIN_FAIL user=backup src=198.51.100.65
+2026-10-14 03:00:48 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.227
+2026-10-14 03:00:52 fileserver01 LOGIN_FAIL user=guest src=198.51.100.103
+2026-10-14 03:01:00 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.162
+2026-10-14 03:01:04 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.36
+2026-10-14 03:01:15 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.142
+2026-10-14 03:01:18 fileserver01 LOGIN_FAIL user=backup src=203.0.113.149
+2026-10-14 03:01:28 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.117
+2026-10-14 03:01:39 fileserver01 LOGIN_FAIL user=guest src=192.0.2.47
+2026-10-14 03:01:45 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.52
+2026-10-14 03:01:51 fileserver01 LOGIN_FAIL user=backup src=192.0.2.112
+2026-10-14 03:01:55 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.98
+2026-10-14 03:02:10 fileserver01 LOGIN_FAIL user=finance src=192.0.2.36
+2026-10-14 03:02:10 fileserver01 LOGIN_FAIL user=guest src=198.51.100.145
+2026-10-14 03:02:14 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.50
+2026-10-14 03:02:23 fileserver01 LOGIN_FAIL user=admin src=203.0.113.75
+2026-10-14 03:02:28 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.108
+2026-10-14 03:02:30 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.109
+2026-10-14 03:02:39 fileserver01 LOGIN_FAIL user=test src=198.51.100.199
+2026-10-14 03:02:57 fileserver01 LOGIN_FAIL user=hr src=198.51.100.80
+2026-10-14 03:02:59 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.234
+2026-10-14 03:03:00 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.34
+2026-10-14 03:03:08 fileserver01 LOGIN_FAIL user=finance src=192.0.2.4
+2026-10-14 03:03:24 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.212
+2026-10-14 03:03:46 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.76
+2026-10-14 03:03:49 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.154
+2026-10-14 03:03:53 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.179
+2026-10-14 03:03:53 fileserver01 LOGIN_FAIL user=sales src=203.0.113.241
+2026-10-14 03:03:58 fileserver01 LOGIN_FAIL user=sales src=203.0.113.153
+2026-10-14 03:04:10 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.217
+2026-10-14 03:04:22 fileserver01 LOGIN_FAIL user=finance src=203.0.113.115
+2026-10-14 03:04:26 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.251
+2026-10-14 03:04:43 fileserver01 LOGIN_FAIL user=finance src=203.0.113.236
+2026-10-14 03:04:58 fileserver01 LOGIN_FAIL user=hr src=192.0.2.191
+2026-10-14 03:05:06 fileserver01 LOGIN_FAIL user=info src=192.0.2.112
+2026-10-14 03:05:10 fileserver01 LOGIN_FAIL user=info src=192.0.2.18
+2026-10-14 03:05:10 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.210
+2026-10-14 03:05:10 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.226
+2026-10-14 03:05:15 fileserver01 LOGIN_FAIL user=finance src=192.0.2.191
+2026-10-14 03:05:17 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.210
+2026-10-14 03:05:19 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.142
+2026-10-14 03:05:27 fileserver01 LOGIN_FAIL user=guest src=192.0.2.34
+2026-10-14 03:05:33 fileserver01 LOGIN_FAIL user=finance src=198.51.100.199
+2026-10-14 03:05:39 fileserver01 LOGIN_FAIL user=test src=203.0.113.241
+2026-10-14 03:05:41 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.6
+2026-10-14 03:05:45 fileserver01 LOGIN_FAIL user=mhughes src=198.51.100.234
+2026-10-14 03:05:46 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.185
+2026-10-14 03:06:09 fileserver01 LOGIN_FAIL user=mhughes src=198.51.100.188
+2026-10-14 03:06:14 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.210
+2026-10-14 03:06:21 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.254
+2026-10-14 03:06:32 fileserver01 LOGIN_FAIL user=guest src=203.0.113.8
+2026-10-14 03:06:32 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.164
+2026-10-14 03:07:01 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.98
+2026-10-14 03:07:01 fileserver01 LOGIN_FAIL user=kwong src=198.51.100.173
+2026-10-14 03:07:10 fileserver01 LOGIN_FAIL user=sales src=192.0.2.12
+2026-10-14 03:07:13 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.99
+2026-10-14 03:07:15 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.231
+2026-10-14 03:07:18 fileserver01 LOGIN_FAIL user=guest src=192.0.2.4
+2026-10-14 03:07:28 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.81
+2026-10-14 03:07:34 fileserver01 LOGIN_FAIL user=test src=192.0.2.112
+2026-10-14 03:07:42 fileserver01 LOGIN_FAIL user=guest src=203.0.113.187
+2026-10-14 03:07:58 fileserver01 LOGIN_FAIL user=test src=192.0.2.190
+2026-10-14 03:08:10 fileserver01 LOGIN_FAIL user=admin src=203.0.113.22
+2026-10-14 03:08:18 fileserver01 LOGIN_FAIL user=guest src=192.0.2.190
+2026-10-14 03:08:29 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.6
+2026-10-14 03:08:31 fileserver01 LOGIN_FAIL user=sales src=192.0.2.7
+2026-10-14 03:08:44 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.62
+2026-10-14 03:08:54 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.216
+2026-10-14 03:09:04 fileserver01 LOGIN_FAIL user=finance src=192.0.2.179
+2026-10-14 03:09:22 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.80
+2026-10-14 03:09:22 fileserver01 LOGIN_FAIL user=backup src=203.0.113.28
+2026-10-14 03:09:33 fileserver01 LOGIN_FAIL user=guest src=203.0.113.8
+2026-10-14 03:09:37 fileserver01 LOGIN_FAIL user=backup src=203.0.113.202
+2026-10-14 03:09:44 fileserver01 LOGIN_FAIL user=hr src=203.0.113.204
+2026-10-14 03:09:46 fileserver01 LOGIN_FAIL user=backup src=192.0.2.228
+2026-10-14 03:10:09 fileserver01 LOGIN_FAIL user=hr src=192.0.2.76
+2026-10-14 03:10:15 fileserver01 LOGIN_FAIL user=hr src=203.0.113.183
+2026-10-14 03:10:15 fileserver01 LOGIN_FAIL user=sales src=198.51.100.166
+2026-10-14 03:10:17 fileserver01 LOGIN_FAIL user=hr src=203.0.113.149
+2026-10-14 03:10:39 fileserver01 LOGIN_FAIL user=guest src=203.0.113.176
+2026-10-14 03:11:06 fileserver01 LOGIN_FAIL user=info src=192.0.2.253
+2026-10-14 03:11:14 fileserver01 LOGIN_FAIL user=sales src=203.0.113.208
+2026-10-14 03:11:14 fileserver01 LOGIN_FAIL user=jsmith src=198.51.100.173
+2026-10-14 03:11:41 fileserver01 LOGIN_FAIL user=backup src=203.0.113.9
+2026-10-14 03:11:43 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.82
+2026-10-14 03:11:54 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.195
+2026-10-14 03:12:00 fileserver01 LOGIN_FAIL user=finance src=198.51.100.199
+2026-10-14 03:12:04 fileserver01 LOGIN_FAIL user=info src=203.0.113.117
+2026-10-14 03:12:05 fileserver01 LOGIN_FAIL user=info src=203.0.113.208
+2026-10-14 03:12:05 fileserver01 LOGIN_FAIL user=test src=192.0.2.192
+2026-10-14 03:12:18 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.76
+2026-10-14 03:12:43 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.25
+2026-10-14 03:12:44 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.59
+2026-10-14 03:12:57 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.95
+2026-10-14 03:13:08 fileserver01 LOGIN_FAIL user=backup src=203.0.113.164
+2026-10-14 03:13:16 fileserver01 LOGIN_FAIL user=backup src=192.0.2.194
+2026-10-14 03:13:20 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.7
+2026-10-14 03:13:32 fileserver01 LOGIN_FAIL user=backup src=198.51.100.213
+2026-10-14 03:13:40 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.48
+2026-10-14 03:13:45 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.51
+2026-10-14 03:13:56 fileserver01 LOGIN_FAIL user=info src=203.0.113.9
+2026-10-14 03:14:05 fileserver01 LOGIN_FAIL user=administrator src=192.0.2.34
+2026-10-14 03:14:11 fileserver01 LOGIN_FAIL user=sales src=192.0.2.192
+2026-10-14 03:14:22 fileserver01 LOGIN_FAIL user=info src=203.0.113.199
+2026-10-14 03:14:47 fileserver01 LOGIN_FAIL user=hr src=192.0.2.7
+2026-10-14 03:14:57 fileserver01 LOGIN_FAIL user=info src=192.0.2.59
+2026-10-14 03:15:05 fileserver01 LOGIN_FAIL user=sales src=198.51.100.124
+2026-10-14 03:15:14 fileserver01 LOGIN_FAIL user=guest src=192.0.2.190
+2026-10-14 03:15:40 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.82
+2026-10-14 03:15:42 fileserver01 LOGIN_FAIL user=test src=192.0.2.228
+2026-10-14 03:15:44 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.191
+2026-10-14 03:15:49 fileserver01 LOGIN_FAIL user=finance src=192.0.2.47
+2026-10-14 03:15:51 fileserver01 LOGIN_FAIL user=backup src=192.0.2.228
+2026-10-14 03:15:54 fileserver01 LOGIN_FAIL user=backup src=203.0.113.99
+2026-10-14 03:15:57 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.95
+2026-10-14 03:16:05 fileserver01 LOGIN_FAIL user=test src=192.0.2.37
+2026-10-14 03:16:10 fileserver01 LOGIN_FAIL user=test src=203.0.113.202
+2026-10-14 03:16:12 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.234
+2026-10-14 03:16:19 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.216
+2026-10-14 03:16:24 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.25
+2026-10-14 03:16:25 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.198
+2026-10-14 03:16:49 fileserver01 LOGIN_FAIL user=backup src=198.51.100.179
+2026-10-14 03:16:50 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.254
+2026-10-14 03:16:53 fileserver01 LOGIN_FAIL user=test src=203.0.113.199
+2026-10-14 03:16:54 fileserver01 LOGIN_FAIL user=guest src=203.0.113.150
+2026-10-14 03:17:06 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.70
+2026-10-14 03:17:10 fileserver01 LOGIN_FAIL user=admin src=203.0.113.251
+2026-10-14 03:17:29 fileserver01 LOGIN_FAIL user=guest src=198.51.100.70
+2026-10-14 03:17:45 fileserver01 LOGIN_FAIL user=info src=203.0.113.137
+2026-10-14 03:18:03 fileserver01 LOGIN_FAIL user=backup src=198.51.100.235
+2026-10-14 03:18:05 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.75
+2026-10-14 03:18:08 fileserver01 LOGIN_FAIL user=sales src=192.0.2.12
+2026-10-14 03:18:14 fileserver01 LOGIN_FAIL user=admin src=203.0.113.158
+2026-10-14 03:18:29 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.67
+2026-10-14 03:18:33 fileserver01 LOGIN_FAIL user=guest src=203.0.113.226
+2026-10-14 03:18:38 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.135
+2026-10-14 03:18:40 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.252
+2026-10-14 03:19:11 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.194
+2026-10-14 03:19:16 fileserver01 LOGIN_FAIL user=guest src=203.0.113.162
+2026-10-14 03:19:20 fileserver01 LOGIN_FAIL user=mhughes src=192.0.2.192
+2026-10-14 03:19:34 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.47
+2026-10-14 03:19:36 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.149
+2026-10-14 03:19:39 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.207
+2026-10-14 03:19:46 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.110
+2026-10-14 03:19:47 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.76
+2026-10-14 03:19:52 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.209
+2026-10-14 03:20:01 fileserver01 LOGIN_FAIL user=admin src=198.51.100.135
+2026-10-14 03:20:08 fileserver01 LOGIN_FAIL user=info src=203.0.113.216
+2026-10-14 03:20:13 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.35
+2026-10-14 03:20:14 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.2
+2026-10-14 03:20:24 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.52
+2026-10-14 03:20:27 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.246
+2026-10-14 03:20:34 fileserver01 LOGIN_FAIL user=finance src=203.0.113.51
+2026-10-14 03:20:44 fileserver01 LOGIN_FAIL user=jsmith src=198.51.100.26
+2026-10-14 03:21:01 fileserver01 LOGIN_FAIL user=jsmith src=198.51.100.103
+2026-10-14 03:21:21 fileserver01 LOGIN_FAIL user=mhughes src=192.0.2.236
+2026-10-14 03:21:43 fileserver01 LOGIN_FAIL user=backup src=192.0.2.36
+2026-10-14 03:21:44 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.190
+2026-10-14 03:21:46 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.204
+2026-10-14 03:21:48 fileserver01 LOGIN_FAIL user=backup src=198.51.100.124
+2026-10-14 03:21:55 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.167
+2026-10-14 03:22:04 fileserver01 LOGIN_FAIL user=finance src=198.51.100.245
+2026-10-14 03:22:14 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.235
+2026-10-14 03:22:19 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.40
+2026-10-14 03:22:26 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.37
+2026-10-14 03:22:29 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.80
+2026-10-14 03:22:36 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.52
+2026-10-14 03:22:41 fileserver01 LOGIN_FAIL user=info src=203.0.113.142
+2026-10-14 03:22:57 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.201
+2026-10-14 03:23:08 fileserver01 LOGIN_FAIL user=guest src=203.0.113.150
+2026-10-14 03:23:09 fileserver01 LOGIN_FAIL user=mhughes src=192.0.2.178
+2026-10-14 03:23:28 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.82
+2026-10-14 03:23:29 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.86
+2026-10-14 03:23:29 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.202
+2026-10-14 03:23:36 fileserver01 LOGIN_FAIL user=hr src=192.0.2.209
+2026-10-14 03:23:38 fileserver01 LOGIN_FAIL user=hr src=198.51.100.227
+2026-10-14 03:23:59 fileserver01 LOGIN_FAIL user=test src=203.0.113.153
+2026-10-14 03:24:06 fileserver01 LOGIN_FAIL user=sales src=198.51.100.50
+2026-10-14 03:24:13 fileserver01 LOGIN_FAIL user=hr src=198.51.100.193
+2026-10-14 03:24:19 fileserver01 LOGIN_FAIL user=finance src=198.51.100.228
+2026-10-14 03:24:30 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.204
+2026-10-14 03:24:37 fileserver01 LOGIN_FAIL user=administrator src=192.0.2.37
+2026-10-14 03:24:54 fileserver01 LOGIN_FAIL user=sales src=192.0.2.42
+2026-10-14 03:24:58 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.163
+2026-10-14 03:25:00 fileserver01 LOGIN_FAIL user=info src=203.0.113.22
+2026-10-14 03:25:00 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.201
+2026-10-14 03:25:01 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.28
+2026-10-14 03:25:12 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.183
+2026-10-14 03:25:13 fileserver01 LOGIN_FAIL user=finance src=203.0.113.131
+2026-10-14 03:25:25 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.22
+2026-10-14 03:25:36 fileserver01 LOGIN_FAIL user=finance src=192.0.2.210
+2026-10-14 03:25:40 fileserver01 LOGIN_FAIL user=info src=203.0.113.115
+2026-10-14 03:25:43 fileserver01 LOGIN_FAIL user=backup src=192.0.2.14
+2026-10-14 03:25:46 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.150
+2026-10-14 03:25:49 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.111
+2026-10-14 03:25:52 fileserver01 LOGIN_FAIL user=guest src=192.0.2.7
+2026-10-14 03:26:02 fileserver01 LOGIN_FAIL user=backup src=198.51.100.166
+2026-10-14 03:26:09 fileserver01 LOGIN_FAIL user=guest src=192.0.2.122
+2026-10-14 03:26:16 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.192
+2026-10-14 03:26:18 fileserver01 LOGIN_FAIL user=admin src=192.0.2.190
+2026-10-14 03:26:19 fileserver01 LOGIN_FAIL user=admin src=203.0.113.236
+2026-10-14 03:26:19 fileserver01 LOGIN_FAIL user=test src=198.51.100.166
+2026-10-14 03:26:25 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.190
+2026-10-14 03:26:26 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.192
+2026-10-14 03:26:29 fileserver01 LOGIN_FAIL user=hr src=203.0.113.131
+2026-10-14 03:26:35 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.111
+2026-10-14 03:26:37 fileserver01 LOGIN_FAIL user=info src=192.0.2.242
+2026-10-14 03:26:41 fileserver01 LOGIN_FAIL user=finance src=198.51.100.233
+2026-10-14 03:27:08 fileserver01 LOGIN_FAIL user=hr src=203.0.113.111
+2026-10-14 03:27:35 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.178
+2026-10-14 03:27:45 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.173
+2026-10-14 03:27:56 fileserver01 LOGIN_FAIL user=sales src=198.51.100.103
+2026-10-14 03:27:56 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.210
+2026-10-14 03:28:24 fileserver01 LOGIN_FAIL user=backup src=203.0.113.204
+2026-10-14 03:28:26 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.209
+2026-10-14 03:28:35 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.26
+2026-10-14 03:28:47 fileserver01 LOGIN_FAIL user=accounting src=203.0.113.50
+2026-10-14 03:29:05 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.67
+2026-10-14 03:29:12 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.110
+2026-10-14 03:29:20 fileserver01 LOGIN_FAIL user=finance src=192.0.2.122
+2026-10-14 03:29:24 fileserver01 LOGIN_FAIL user=hr src=203.0.113.227
+2026-10-14 03:29:35 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.75
+2026-10-14 03:29:39 fileserver01 LOGIN_FAIL user=administrator src=192.0.2.178
+2026-10-14 03:29:49 fileserver01 LOGIN_FAIL user=guest src=203.0.113.236
+2026-10-14 03:29:52 fileserver01 LOGIN_FAIL user=administrator src=198.51.100.70
+2026-10-14 03:29:52 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.36
+2026-10-14 03:30:02 fileserver01 LOGIN_FAIL user=backup src=192.0.2.18
+2026-10-14 03:30:21 fileserver01 LOGIN_FAIL user=admin src=192.0.2.252
+2026-10-14 03:30:23 fileserver01 LOGIN_FAIL user=finance src=192.0.2.59
+2026-10-14 03:30:25 fileserver01 LOGIN_FAIL user=backup src=192.0.2.178
+2026-10-14 03:30:26 fileserver01 LOGIN_FAIL user=sales src=192.0.2.189
+2026-10-14 03:30:30 fileserver01 LOGIN_FAIL user=finance src=198.51.100.124
+2026-10-14 03:31:03 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.109
+2026-10-14 03:31:06 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.98
+2026-10-14 03:31:24 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.18
+2026-10-14 03:31:35 fileserver01 LOGIN_FAIL user=mhughes src=198.51.100.234
+2026-10-14 03:31:43 fileserver01 LOGIN_FAIL user=finance src=192.0.2.18
+2026-10-14 03:31:46 fileserver01 LOGIN_FAIL user=hr src=203.0.113.254
+2026-10-14 03:31:50 fileserver01 LOGIN_FAIL user=backup src=192.0.2.18
+2026-10-14 03:32:02 fileserver01 LOGIN_FAIL user=info src=192.0.2.209
+2026-10-14 03:32:06 fileserver01 LOGIN_FAIL user=info src=198.51.100.233
+2026-10-14 03:32:11 fileserver01 LOGIN_FAIL user=mhughes src=198.51.100.145
+2026-10-14 03:32:31 fileserver01 LOGIN_FAIL user=test src=203.0.113.246
+2026-10-14 03:32:34 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.135
+2026-10-14 03:32:47 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.22
+2026-10-14 03:32:51 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.51
+2026-10-14 03:33:16 fileserver01 LOGIN_FAIL user=sales src=192.0.2.34
+2026-10-14 03:33:21 fileserver01 LOGIN_FAIL user=sales src=198.51.100.193
+2026-10-14 03:33:25 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.190
+2026-10-14 03:33:25 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.142
+2026-10-14 03:33:28 fileserver01 LOGIN_FAIL user=guest src=198.51.100.2
+2026-10-14 03:33:32 fileserver01 LOGIN_FAIL user=sales src=192.0.2.212
+2026-10-14 03:33:43 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.47
+2026-10-14 03:33:44 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.228
+2026-10-14 03:33:48 fileserver01 LOGIN_FAIL user=guest src=198.51.100.112
+2026-10-14 03:33:50 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.112
+2026-10-14 03:33:54 fileserver01 LOGIN_FAIL user=hr src=192.0.2.212
+2026-10-14 03:34:01 fileserver01 LOGIN_FAIL user=hr src=203.0.113.95
+2026-10-14 03:34:07 fileserver01 LOGIN_FAIL user=kwong src=192.0.2.112
+2026-10-14 03:34:12 fileserver01 LOGIN_FAIL user=administrator src=203.0.113.50
+2026-10-14 03:34:19 fileserver01 LOGIN_FAIL user=hr src=192.0.2.157
+2026-10-14 03:34:34 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.52
+2026-10-14 03:34:34 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.183
+2026-10-14 03:34:50 fileserver01 LOGIN_FAIL user=test src=203.0.113.142
+2026-10-14 03:34:56 fileserver01 LOGIN_FAIL user=info src=198.51.100.213
+2026-10-14 03:35:14 fileserver01 LOGIN_FAIL user=test src=203.0.113.95
+2026-10-14 03:35:15 fileserver01 LOGIN_FAIL user=sales src=203.0.113.241
+2026-10-14 03:35:32 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.150
+2026-10-14 03:35:34 fileserver01 LOGIN_FAIL user=sales src=203.0.113.187
+2026-10-14 03:35:44 fileserver01 LOGIN_FAIL user=finance src=198.51.100.182
+2026-10-14 03:35:53 fileserver01 LOGIN_FAIL user=guest src=192.0.2.110
+2026-10-14 03:35:56 fileserver01 LOGIN_FAIL user=rlee src=192.0.2.234
+2026-10-14 03:36:14 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.156
+2026-10-14 03:36:20 fileserver01 LOGIN_FAIL user=tpatel src=203.0.113.244
+2026-10-14 03:36:23 fileserver01 LOGIN_FAIL user=test src=203.0.113.239
+2026-10-14 03:36:24 fileserver01 LOGIN_FAIL user=finance src=192.0.2.190
+2026-10-14 03:36:26 fileserver01 LOGIN_FAIL user=jsmith src=192.0.2.195
+2026-10-14 03:37:10 fileserver01 LOGIN_FAIL user=tpatel src=198.51.100.56
+2026-10-14 03:37:24 fileserver01 LOGIN_FAIL user=admin src=203.0.113.201
+2026-10-14 03:37:33 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.227
+2026-10-14 03:37:47 fileserver01 LOGIN_FAIL user=jsmith src=203.0.113.25
+2026-10-14 03:37:49 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.213
+2026-10-14 03:37:52 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.109
+2026-10-14 03:37:59 fileserver01 LOGIN_FAIL user=kwong src=203.0.113.50
+2026-10-14 03:38:00 fileserver01 LOGIN_FAIL user=admin src=203.0.113.153
+2026-10-14 03:38:06 fileserver01 LOGIN_FAIL user=backup src=192.0.2.34
+2026-10-14 03:38:07 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.34
+2026-10-14 03:38:07 fileserver01 LOGIN_FAIL user=hr src=198.51.100.55
+2026-10-14 03:38:09 fileserver01 LOGIN_FAIL user=sales src=203.0.113.187
+2026-10-14 03:38:19 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.210
+2026-10-14 03:38:30 fileserver01 LOGIN_FAIL user=accounting src=192.0.2.2
+2026-10-14 03:38:34 fileserver01 LOGIN_FAIL user=backup src=203.0.113.108
+2026-10-14 03:38:34 fileserver01 LOGIN_FAIL user=sales src=192.0.2.231
+2026-10-14 03:38:51 fileserver01 LOGIN_FAIL user=accounting src=198.51.100.61
+2026-10-14 03:39:02 fileserver01 LOGIN_FAIL user=mhughes src=203.0.113.204
+2026-10-14 03:39:13 fileserver01 LOGIN_FAIL user=mhughes src=192.0.2.4
+2026-10-14 03:39:15 fileserver01 LOGIN_FAIL user=rlee src=198.51.100.233
+2026-10-14 03:39:27 fileserver01 LOGIN_FAIL user=tpatel src=192.0.2.157
+2026-10-14 03:39:48 fileserver01 LOGIN_FAIL user=rlee src=203.0.113.207
+2026-10-14 03:41:00 fileserver01 LOGIN_OK user=tpatel src=192.0.2.112
+2026-10-14 03:45:00 fileserver01 FILE_READ user=tpatel path=/srv/shared/file0.docx
+2026-10-14 03:45:01 fileserver01 FILE_READ user=tpatel path=/srv/shared/file1.docx
+2026-10-14 03:45:02 fileserver01 FILE_READ user=tpatel path=/srv/shared/file2.docx
+2026-10-14 03:45:03 fileserver01 FILE_READ user=tpatel path=/srv/shared/file3.docx
+2026-10-14 03:45:04 fileserver01 FILE_READ user=tpatel path=/srv/shared/file4.docx
+2026-10-14 03:45:05 fileserver01 FILE_READ user=tpatel path=/srv/shared/file5.docx
+2026-10-14 03:45:06 fileserver01 FILE_READ user=tpatel path=/srv/shared/file6.docx
+2026-10-14 03:45:07 fileserver01 FILE_READ user=tpatel path=/srv/shared/file7.docx
+2026-10-14 03:45:08 fileserver01 FILE_READ user=tpatel path=/srv/shared/file8.docx
+2026-10-14 03:45:09 fileserver01 FILE_READ user=tpatel path=/srv/shared/file9.docx
+2026-10-14 03:45:10 fileserver01 FILE_READ user=tpatel path=/srv/shared/file10.docx
+2026-10-14 03:45:11 fileserver01 FILE_READ user=tpatel path=/srv/shared/file11.docx
+2026-10-14 03:45:12 fileserver01 FILE_READ user=tpatel path=/srv/shared/file12.docx
+2026-10-14 03:45:13 fileserver01 FILE_READ user=tpatel path=/srv/shared/file13.docx
+2026-10-14 03:45:14 fileserver01 FILE_READ user=tpatel path=/srv/shared/file14.docx
+2026-10-14 03:45:15 fileserver01 FILE_READ user=tpatel path=/srv/shared/file15.docx
+2026-10-14 03:45:16 fileserver01 FILE_READ user=tpatel path=/srv/shared/file16.docx
+2026-10-14 03:45:17 fileserver01 FILE_READ user=tpatel path=/srv/shared/file17.docx
+2026-10-14 03:45:18 fileserver01 FILE_READ user=tpatel path=/srv/shared/file18.docx
+2026-10-14 03:45:19 fileserver01 FILE_READ user=tpatel path=/srv/shared/file19.docx
+2026-10-14 03:45:20 fileserver01 FILE_READ user=tpatel path=/srv/shared/file20.docx
+2026-10-14 03:45:21 fileserver01 FILE_READ user=tpatel path=/srv/shared/file21.docx
+2026-10-14 03:45:22 fileserver01 FILE_READ user=tpatel path=/srv/shared/file22.docx
+2026-10-14 03:45:23 fileserver01 FILE_READ user=tpatel path=/srv/shared/file23.docx
+2026-10-14 03:45:24 fileserver01 FILE_READ user=tpatel path=/srv/shared/file24.docx
+2026-10-14 03:45:25 fileserver01 FILE_READ user=tpatel path=/srv/shared/file25.docx
+2026-10-14 03:45:26 fileserver01 FILE_READ user=tpatel path=/srv/shared/file26.docx
+2026-10-14 03:45:27 fileserver01 FILE_READ user=tpatel path=/srv/shared/file27.docx
+2026-10-14 03:45:28 fileserver01 FILE_READ user=tpatel path=/srv/shared/file28.docx
+2026-10-14 03:45:29 fileserver01 FILE_READ user=tpatel path=/srv/shared/file29.docx
+2026-10-14 03:45:30 fileserver01 FILE_READ user=tpatel path=/srv/shared/file30.docx
+2026-10-14 03:45:31 fileserver01 FILE_READ user=tpatel path=/srv/shared/file31.docx
+2026-10-14 03:45:32 fileserver01 FILE_READ user=tpatel path=/srv/shared/file32.docx
+2026-10-14 03:45:33 fileserver01 FILE_READ user=tpatel path=/srv/shared/file33.docx
+2026-10-14 03:45:34 fileserver01 FILE_READ user=tpatel path=/srv/shared/file34.docx
+2026-10-14 03:45:35 fileserver01 FILE_READ user=tpatel path=/srv/shared/file35.docx
+2026-10-14 03:45:36 fileserver01 FILE_READ user=tpatel path=/srv/shared/file36.docx
+2026-10-14 03:45:37 fileserver01 FILE_READ user=tpatel path=/srv/shared/file37.docx
+2026-10-14 03:45:38 fileserver01 FILE_READ user=tpatel path=/srv/shared/file38.docx
+2026-10-14 03:45:39 fileserver01 FILE_READ user=tpatel path=/srv/shared/file39.docx
+2026-10-14 03:52:00 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file0.docx new=/srv/shared/file0.docx.locked
+2026-10-14 03:52:01 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file1.docx new=/srv/shared/file1.docx.locked
+2026-10-14 03:52:02 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file2.docx new=/srv/shared/file2.docx.locked
+2026-10-14 03:52:03 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file3.docx new=/srv/shared/file3.docx.locked
+2026-10-14 03:52:04 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file4.docx new=/srv/shared/file4.docx.locked
+2026-10-14 03:52:05 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file5.docx new=/srv/shared/file5.docx.locked
+2026-10-14 03:52:06 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file6.docx new=/srv/shared/file6.docx.locked
+2026-10-14 03:52:07 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file7.docx new=/srv/shared/file7.docx.locked
+2026-10-14 03:52:08 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file8.docx new=/srv/shared/file8.docx.locked
+2026-10-14 03:52:09 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file9.docx new=/srv/shared/file9.docx.locked
+2026-10-14 03:52:10 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file10.docx new=/srv/shared/file10.docx.locked
+2026-10-14 03:52:11 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file11.docx new=/srv/shared/file11.docx.locked
+2026-10-14 03:52:12 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file12.docx new=/srv/shared/file12.docx.locked
+2026-10-14 03:52:13 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file13.docx new=/srv/shared/file13.docx.locked
+2026-10-14 03:52:14 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file14.docx new=/srv/shared/file14.docx.locked
+2026-10-14 03:52:15 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file15.docx new=/srv/shared/file15.docx.locked
+2026-10-14 03:52:16 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file16.docx new=/srv/shared/file16.docx.locked
+2026-10-14 03:52:17 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file17.docx new=/srv/shared/file17.docx.locked
+2026-10-14 03:52:18 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file18.docx new=/srv/shared/file18.docx.locked
+2026-10-14 03:52:19 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file19.docx new=/srv/shared/file19.docx.locked
+2026-10-14 03:52:20 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file20.docx new=/srv/shared/file20.docx.locked
+2026-10-14 03:52:21 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file21.docx new=/srv/shared/file21.docx.locked
+2026-10-14 03:52:22 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file22.docx new=/srv/shared/file22.docx.locked
+2026-10-14 03:52:23 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file23.docx new=/srv/shared/file23.docx.locked
+2026-10-14 03:52:24 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file24.docx new=/srv/shared/file24.docx.locked
+2026-10-14 03:52:25 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file25.docx new=/srv/shared/file25.docx.locked
+2026-10-14 03:52:26 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file26.docx new=/srv/shared/file26.docx.locked
+2026-10-14 03:52:27 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file27.docx new=/srv/shared/file27.docx.locked
+2026-10-14 03:52:28 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file28.docx new=/srv/shared/file28.docx.locked
+2026-10-14 03:52:29 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file29.docx new=/srv/shared/file29.docx.locked
+2026-10-14 03:52:30 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file30.docx new=/srv/shared/file30.docx.locked
+2026-10-14 03:52:31 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file31.docx new=/srv/shared/file31.docx.locked
+2026-10-14 03:52:32 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file32.docx new=/srv/shared/file32.docx.locked
+2026-10-14 03:52:33 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file33.docx new=/srv/shared/file33.docx.locked
+2026-10-14 03:52:34 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file34.docx new=/srv/shared/file34.docx.locked
+2026-10-14 03:52:35 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file35.docx new=/srv/shared/file35.docx.locked
+2026-10-14 03:52:36 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file36.docx new=/srv/shared/file36.docx.locked
+2026-10-14 03:52:37 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file37.docx new=/srv/shared/file37.docx.locked
+2026-10-14 03:52:38 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file38.docx new=/srv/shared/file38.docx.locked
+2026-10-14 03:52:39 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file39.docx new=/srv/shared/file39.docx.locked
+2026-10-14 03:52:40 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file40.docx new=/srv/shared/file40.docx.locked
+2026-10-14 03:52:41 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file41.docx new=/srv/shared/file41.docx.locked
+2026-10-14 03:52:42 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file42.docx new=/srv/shared/file42.docx.locked
+2026-10-14 03:52:43 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file43.docx new=/srv/shared/file43.docx.locked
+2026-10-14 03:52:44 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file44.docx new=/srv/shared/file44.docx.locked
+2026-10-14 03:52:45 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file45.docx new=/srv/shared/file45.docx.locked
+2026-10-14 03:52:46 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file46.docx new=/srv/shared/file46.docx.locked
+2026-10-14 03:52:47 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file47.docx new=/srv/shared/file47.docx.locked
+2026-10-14 03:52:48 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file48.docx new=/srv/shared/file48.docx.locked
+2026-10-14 03:52:49 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file49.docx new=/srv/shared/file49.docx.locked
+2026-10-14 03:52:50 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file50.docx new=/srv/shared/file50.docx.locked
+2026-10-14 03:52:51 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file51.docx new=/srv/shared/file51.docx.locked
+2026-10-14 03:52:52 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file52.docx new=/srv/shared/file52.docx.locked
+2026-10-14 03:52:53 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file53.docx new=/srv/shared/file53.docx.locked
+2026-10-14 03:52:54 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file54.docx new=/srv/shared/file54.docx.locked
+2026-10-14 03:52:55 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file55.docx new=/srv/shared/file55.docx.locked
+2026-10-14 03:52:56 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file56.docx new=/srv/shared/file56.docx.locked
+2026-10-14 03:52:57 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file57.docx new=/srv/shared/file57.docx.locked
+2026-10-14 03:52:58 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file58.docx new=/srv/shared/file58.docx.locked
+2026-10-14 03:52:59 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file59.docx new=/srv/shared/file59.docx.locked
+2026-10-14 03:53:00 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file60.docx new=/srv/shared/file60.docx.locked
+2026-10-14 03:53:01 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file61.docx new=/srv/shared/file61.docx.locked
+2026-10-14 03:53:02 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file62.docx new=/srv/shared/file62.docx.locked
+2026-10-14 03:53:03 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file63.docx new=/srv/shared/file63.docx.locked
+2026-10-14 03:53:04 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file64.docx new=/srv/shared/file64.docx.locked
+2026-10-14 03:53:05 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file65.docx new=/srv/shared/file65.docx.locked
+2026-10-14 03:53:06 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file66.docx new=/srv/shared/file66.docx.locked
+2026-10-14 03:53:07 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file67.docx new=/srv/shared/file67.docx.locked
+2026-10-14 03:53:08 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file68.docx new=/srv/shared/file68.docx.locked
+2026-10-14 03:53:09 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file69.docx new=/srv/shared/file69.docx.locked
+2026-10-14 03:53:10 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file70.docx new=/srv/shared/file70.docx.locked
+2026-10-14 03:53:11 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file71.docx new=/srv/shared/file71.docx.locked
+2026-10-14 03:53:12 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file72.docx new=/srv/shared/file72.docx.locked
+2026-10-14 03:53:13 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file73.docx new=/srv/shared/file73.docx.locked
+2026-10-14 03:53:14 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file74.docx new=/srv/shared/file74.docx.locked
+2026-10-14 03:53:15 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file75.docx new=/srv/shared/file75.docx.locked
+2026-10-14 03:53:16 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file76.docx new=/srv/shared/file76.docx.locked
+2026-10-14 03:53:17 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file77.docx new=/srv/shared/file77.docx.locked
+2026-10-14 03:53:18 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file78.docx new=/srv/shared/file78.docx.locked
+2026-10-14 03:53:19 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file79.docx new=/srv/shared/file79.docx.locked
+2026-10-14 03:53:20 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file80.docx new=/srv/shared/file80.docx.locked
+2026-10-14 03:53:21 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file81.docx new=/srv/shared/file81.docx.locked
+2026-10-14 03:53:22 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file82.docx new=/srv/shared/file82.docx.locked
+2026-10-14 03:53:23 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file83.docx new=/srv/shared/file83.docx.locked
+2026-10-14 03:53:24 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file84.docx new=/srv/shared/file84.docx.locked
+2026-10-14 03:53:25 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file85.docx new=/srv/shared/file85.docx.locked
+2026-10-14 03:53:26 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file86.docx new=/srv/shared/file86.docx.locked
+2026-10-14 03:53:27 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file87.docx new=/srv/shared/file87.docx.locked
+2026-10-14 03:53:28 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file88.docx new=/srv/shared/file88.docx.locked
+2026-10-14 03:53:29 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file89.docx new=/srv/shared/file89.docx.locked
+2026-10-14 03:53:30 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file90.docx new=/srv/shared/file90.docx.locked
+2026-10-14 03:53:31 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file91.docx new=/srv/shared/file91.docx.locked
+2026-10-14 03:53:32 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file92.docx new=/srv/shared/file92.docx.locked
+2026-10-14 03:53:33 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file93.docx new=/srv/shared/file93.docx.locked
+2026-10-14 03:53:34 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file94.docx new=/srv/shared/file94.docx.locked
+2026-10-14 03:53:35 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file95.docx new=/srv/shared/file95.docx.locked
+2026-10-14 03:53:36 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file96.docx new=/srv/shared/file96.docx.locked
+2026-10-14 03:53:37 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file97.docx new=/srv/shared/file97.docx.locked
+2026-10-14 03:53:38 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file98.docx new=/srv/shared/file98.docx.locked
+2026-10-14 03:53:39 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file99.docx new=/srv/shared/file99.docx.locked
+2026-10-14 03:53:40 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file100.docx new=/srv/shared/file100.docx.locked
+2026-10-14 03:53:41 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file101.docx new=/srv/shared/file101.docx.locked
+2026-10-14 03:53:42 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file102.docx new=/srv/shared/file102.docx.locked
+2026-10-14 03:53:43 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file103.docx new=/srv/shared/file103.docx.locked
+2026-10-14 03:53:44 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file104.docx new=/srv/shared/file104.docx.locked
+2026-10-14 03:53:45 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file105.docx new=/srv/shared/file105.docx.locked
+2026-10-14 03:53:46 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file106.docx new=/srv/shared/file106.docx.locked
+2026-10-14 03:53:47 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file107.docx new=/srv/shared/file107.docx.locked
+2026-10-14 03:53:48 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file108.docx new=/srv/shared/file108.docx.locked
+2026-10-14 03:53:49 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file109.docx new=/srv/shared/file109.docx.locked
+2026-10-14 03:53:50 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file110.docx new=/srv/shared/file110.docx.locked
+2026-10-14 03:53:51 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file111.docx new=/srv/shared/file111.docx.locked
+2026-10-14 03:53:52 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file112.docx new=/srv/shared/file112.docx.locked
+2026-10-14 03:53:53 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file113.docx new=/srv/shared/file113.docx.locked
+2026-10-14 03:53:54 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file114.docx new=/srv/shared/file114.docx.locked
+2026-10-14 03:53:55 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file115.docx new=/srv/shared/file115.docx.locked
+2026-10-14 03:53:56 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file116.docx new=/srv/shared/file116.docx.locked
+2026-10-14 03:53:57 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file117.docx new=/srv/shared/file117.docx.locked
+2026-10-14 03:53:58 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file118.docx new=/srv/shared/file118.docx.locked
+2026-10-14 03:53:59 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file119.docx new=/srv/shared/file119.docx.locked
+2026-10-14 03:54:00 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file120.docx new=/srv/shared/file120.docx.locked
+2026-10-14 03:54:01 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file121.docx new=/srv/shared/file121.docx.locked
+2026-10-14 03:54:02 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file122.docx new=/srv/shared/file122.docx.locked
+2026-10-14 03:54:03 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file123.docx new=/srv/shared/file123.docx.locked
+2026-10-14 03:54:04 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file124.docx new=/srv/shared/file124.docx.locked
+2026-10-14 03:54:05 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file125.docx new=/srv/shared/file125.docx.locked
+2026-10-14 03:54:06 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file126.docx new=/srv/shared/file126.docx.locked
+2026-10-14 03:54:07 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file127.docx new=/srv/shared/file127.docx.locked
+2026-10-14 03:54:08 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file128.docx new=/srv/shared/file128.docx.locked
+2026-10-14 03:54:09 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file129.docx new=/srv/shared/file129.docx.locked
+2026-10-14 03:54:10 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file130.docx new=/srv/shared/file130.docx.locked
+2026-10-14 03:54:11 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file131.docx new=/srv/shared/file131.docx.locked
+2026-10-14 03:54:12 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file132.docx new=/srv/shared/file132.docx.locked
+2026-10-14 03:54:13 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file133.docx new=/srv/shared/file133.docx.locked
+2026-10-14 03:54:14 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file134.docx new=/srv/shared/file134.docx.locked
+2026-10-14 03:54:15 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file135.docx new=/srv/shared/file135.docx.locked
+2026-10-14 03:54:16 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file136.docx new=/srv/shared/file136.docx.locked
+2026-10-14 03:54:17 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file137.docx new=/srv/shared/file137.docx.locked
+2026-10-14 03:54:18 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file138.docx new=/srv/shared/file138.docx.locked
+2026-10-14 03:54:19 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file139.docx new=/srv/shared/file139.docx.locked
+2026-10-14 03:54:20 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file140.docx new=/srv/shared/file140.docx.locked
+2026-10-14 03:54:21 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file141.docx new=/srv/shared/file141.docx.locked
+2026-10-14 03:54:22 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file142.docx new=/srv/shared/file142.docx.locked
+2026-10-14 03:54:23 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file143.docx new=/srv/shared/file143.docx.locked
+2026-10-14 03:54:24 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file144.docx new=/srv/shared/file144.docx.locked
+2026-10-14 03:54:25 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file145.docx new=/srv/shared/file145.docx.locked
+2026-10-14 03:54:26 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file146.docx new=/srv/shared/file146.docx.locked
+2026-10-14 03:54:27 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file147.docx new=/srv/shared/file147.docx.locked
+2026-10-14 03:54:28 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file148.docx new=/srv/shared/file148.docx.locked
+2026-10-14 03:54:29 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file149.docx new=/srv/shared/file149.docx.locked
+2026-10-14 03:54:30 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file150.docx new=/srv/shared/file150.docx.locked
+2026-10-14 03:54:31 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file151.docx new=/srv/shared/file151.docx.locked
+2026-10-14 03:54:32 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file152.docx new=/srv/shared/file152.docx.locked
+2026-10-14 03:54:33 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file153.docx new=/srv/shared/file153.docx.locked
+2026-10-14 03:54:34 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file154.docx new=/srv/shared/file154.docx.locked
+2026-10-14 03:54:35 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file155.docx new=/srv/shared/file155.docx.locked
+2026-10-14 03:54:36 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file156.docx new=/srv/shared/file156.docx.locked
+2026-10-14 03:54:37 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file157.docx new=/srv/shared/file157.docx.locked
+2026-10-14 03:54:38 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file158.docx new=/srv/shared/file158.docx.locked
+2026-10-14 03:54:39 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file159.docx new=/srv/shared/file159.docx.locked
+2026-10-14 03:54:40 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file160.docx new=/srv/shared/file160.docx.locked
+2026-10-14 03:54:41 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file161.docx new=/srv/shared/file161.docx.locked
+2026-10-14 03:54:42 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file162.docx new=/srv/shared/file162.docx.locked
+2026-10-14 03:54:43 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file163.docx new=/srv/shared/file163.docx.locked
+2026-10-14 03:54:44 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file164.docx new=/srv/shared/file164.docx.locked
+2026-10-14 03:54:45 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file165.docx new=/srv/shared/file165.docx.locked
+2026-10-14 03:54:46 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file166.docx new=/srv/shared/file166.docx.locked
+2026-10-14 03:54:47 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file167.docx new=/srv/shared/file167.docx.locked
+2026-10-14 03:54:48 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file168.docx new=/srv/shared/file168.docx.locked
+2026-10-14 03:54:49 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file169.docx new=/srv/shared/file169.docx.locked
+2026-10-14 03:54:50 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file170.docx new=/srv/shared/file170.docx.locked
+2026-10-14 03:54:51 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file171.docx new=/srv/shared/file171.docx.locked
+2026-10-14 03:54:52 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file172.docx new=/srv/shared/file172.docx.locked
+2026-10-14 03:54:53 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file173.docx new=/srv/shared/file173.docx.locked
+2026-10-14 03:54:54 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file174.docx new=/srv/shared/file174.docx.locked
+2026-10-14 03:54:55 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file175.docx new=/srv/shared/file175.docx.locked
+2026-10-14 03:54:56 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file176.docx new=/srv/shared/file176.docx.locked
+2026-10-14 03:54:57 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file177.docx new=/srv/shared/file177.docx.locked
+2026-10-14 03:54:58 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file178.docx new=/srv/shared/file178.docx.locked
+2026-10-14 03:54:59 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file179.docx new=/srv/shared/file179.docx.locked
+2026-10-14 03:55:00 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file180.docx new=/srv/shared/file180.docx.locked
+2026-10-14 03:55:01 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file181.docx new=/srv/shared/file181.docx.locked
+2026-10-14 03:55:02 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file182.docx new=/srv/shared/file182.docx.locked
+2026-10-14 03:55:03 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file183.docx new=/srv/shared/file183.docx.locked
+2026-10-14 03:55:04 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file184.docx new=/srv/shared/file184.docx.locked
+2026-10-14 03:55:05 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file185.docx new=/srv/shared/file185.docx.locked
+2026-10-14 03:55:06 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file186.docx new=/srv/shared/file186.docx.locked
+2026-10-14 03:55:07 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file187.docx new=/srv/shared/file187.docx.locked
+2026-10-14 03:55:08 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file188.docx new=/srv/shared/file188.docx.locked
+2026-10-14 03:55:09 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file189.docx new=/srv/shared/file189.docx.locked
+2026-10-14 03:55:10 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file190.docx new=/srv/shared/file190.docx.locked
+2026-10-14 03:55:11 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file191.docx new=/srv/shared/file191.docx.locked
+2026-10-14 03:55:12 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file192.docx new=/srv/shared/file192.docx.locked
+2026-10-14 03:55:13 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file193.docx new=/srv/shared/file193.docx.locked
+2026-10-14 03:55:14 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file194.docx new=/srv/shared/file194.docx.locked
+2026-10-14 03:55:15 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file195.docx new=/srv/shared/file195.docx.locked
+2026-10-14 03:55:16 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file196.docx new=/srv/shared/file196.docx.locked
+2026-10-14 03:55:17 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file197.docx new=/srv/shared/file197.docx.locked
+2026-10-14 03:55:18 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file198.docx new=/srv/shared/file198.docx.locked
+2026-10-14 03:55:19 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file199.docx new=/srv/shared/file199.docx.locked
+2026-10-14 03:55:20 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file200.docx new=/srv/shared/file200.docx.locked
+2026-10-14 03:55:21 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file201.docx new=/srv/shared/file201.docx.locked
+2026-10-14 03:55:22 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file202.docx new=/srv/shared/file202.docx.locked
+2026-10-14 03:55:23 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file203.docx new=/srv/shared/file203.docx.locked
+2026-10-14 03:55:24 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file204.docx new=/srv/shared/file204.docx.locked
+2026-10-14 03:55:25 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file205.docx new=/srv/shared/file205.docx.locked
+2026-10-14 03:55:26 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file206.docx new=/srv/shared/file206.docx.locked
+2026-10-14 03:55:27 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file207.docx new=/srv/shared/file207.docx.locked
+2026-10-14 03:55:28 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file208.docx new=/srv/shared/file208.docx.locked
+2026-10-14 03:55:29 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file209.docx new=/srv/shared/file209.docx.locked
+2026-10-14 03:55:30 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file210.docx new=/srv/shared/file210.docx.locked
+2026-10-14 03:55:31 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file211.docx new=/srv/shared/file211.docx.locked
+2026-10-14 03:55:32 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file212.docx new=/srv/shared/file212.docx.locked
+2026-10-14 03:55:33 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file213.docx new=/srv/shared/file213.docx.locked
+2026-10-14 03:55:34 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file214.docx new=/srv/shared/file214.docx.locked
+2026-10-14 03:55:35 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file215.docx new=/srv/shared/file215.docx.locked
+2026-10-14 03:55:36 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file216.docx new=/srv/shared/file216.docx.locked
+2026-10-14 03:55:37 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file217.docx new=/srv/shared/file217.docx.locked
+2026-10-14 03:55:38 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file218.docx new=/srv/shared/file218.docx.locked
+2026-10-14 03:55:39 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file219.docx new=/srv/shared/file219.docx.locked
+2026-10-14 03:55:40 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file220.docx new=/srv/shared/file220.docx.locked
+2026-10-14 03:55:41 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file221.docx new=/srv/shared/file221.docx.locked
+2026-10-14 03:55:42 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file222.docx new=/srv/shared/file222.docx.locked
+2026-10-14 03:55:43 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file223.docx new=/srv/shared/file223.docx.locked
+2026-10-14 03:55:44 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file224.docx new=/srv/shared/file224.docx.locked
+2026-10-14 03:55:45 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file225.docx new=/srv/shared/file225.docx.locked
+2026-10-14 03:55:46 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file226.docx new=/srv/shared/file226.docx.locked
+2026-10-14 03:55:47 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file227.docx new=/srv/shared/file227.docx.locked
+2026-10-14 03:55:48 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file228.docx new=/srv/shared/file228.docx.locked
+2026-10-14 03:55:49 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file229.docx new=/srv/shared/file229.docx.locked
+2026-10-14 03:55:50 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file230.docx new=/srv/shared/file230.docx.locked
+2026-10-14 03:55:51 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file231.docx new=/srv/shared/file231.docx.locked
+2026-10-14 03:55:52 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file232.docx new=/srv/shared/file232.docx.locked
+2026-10-14 03:55:53 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file233.docx new=/srv/shared/file233.docx.locked
+2026-10-14 03:55:54 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file234.docx new=/srv/shared/file234.docx.locked
+2026-10-14 03:55:55 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file235.docx new=/srv/shared/file235.docx.locked
+2026-10-14 03:55:56 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file236.docx new=/srv/shared/file236.docx.locked
+2026-10-14 03:55:57 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file237.docx new=/srv/shared/file237.docx.locked
+2026-10-14 03:55:58 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file238.docx new=/srv/shared/file238.docx.locked
+2026-10-14 03:55:59 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file239.docx new=/srv/shared/file239.docx.locked
+2026-10-14 03:56:00 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file240.docx new=/srv/shared/file240.docx.locked
+2026-10-14 03:56:01 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file241.docx new=/srv/shared/file241.docx.locked
+2026-10-14 03:56:02 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file242.docx new=/srv/shared/file242.docx.locked
+2026-10-14 03:56:03 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file243.docx new=/srv/shared/file243.docx.locked
+2026-10-14 03:56:04 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file244.docx new=/srv/shared/file244.docx.locked
+2026-10-14 03:56:05 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file245.docx new=/srv/shared/file245.docx.locked
+2026-10-14 03:56:06 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file246.docx new=/srv/shared/file246.docx.locked
+2026-10-14 03:56:07 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file247.docx new=/srv/shared/file247.docx.locked
+2026-10-14 03:56:08 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file248.docx new=/srv/shared/file248.docx.locked
+2026-10-14 03:56:09 fileserver01 FILE_RENAME user=tpatel path=/srv/shared/file249.docx new=/srv/shared/file249.docx.locked
+2026-10-14 03:57:00 fileserver01 FILE_CREATE user=tpatel path=/srv/shared/README_RESTORE.txt
+2026-10-14 08:41:00 fileserver01 LOGIN_OK user=mhughes src=10.20.0.41
+2026-10-14 09:06:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc47.xlsx
+2026-10-14 09:09:00 fileserver01 LOGIN_OK user=tpatel src=10.20.0.42
+2026-10-14 09:34:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-14 09:36:00 fileserver01 LOGIN_OK user=kwong src=10.20.0.44
+2026-10-14 09:53:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc6.xlsx
+2026-10-14 09:57:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc51.xlsx
+2026-10-14 10:23:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc23.xlsx
+2026-10-14 10:40:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc26.xlsx
+2026-10-14 10:51:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc6.xlsx
+2026-10-14 10:56:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc22.xlsx
+2026-10-14 11:10:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc59.xlsx
+2026-10-14 11:26:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc30.xlsx
+2026-10-14 11:36:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc44.xlsx
+2026-10-14 11:41:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc15.xlsx
+2026-10-14 12:08:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc10.xlsx
+2026-10-14 12:20:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc6.xlsx
+2026-10-14 12:46:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc20.xlsx
+2026-10-14 12:48:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc28.xlsx
+2026-10-14 12:55:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc59.xlsx
+2026-10-14 13:04:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc35.xlsx
+2026-10-14 13:07:00 fileserver01 LOGIN_FAIL user=rlee src=10.20.0.43
+2026-10-14 14:06:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc12.xlsx
+2026-10-14 14:13:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc19.xlsx
+2026-10-14 14:16:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc49.xlsx
+2026-10-14 14:34:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc42.xlsx
+2026-10-14 14:51:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc43.xlsx
+2026-10-14 15:10:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc40.xlsx
+2026-10-14 15:36:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc41.xlsx
+2026-10-14 15:38:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc58.xlsx
+2026-10-14 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-15 01:02:00 fileserver01 LOGIN_OK user=svc_backup src=203.0.113.166
+2026-10-15 01:12:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec38.pdf
+2026-10-15 01:22:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec4.pdf
+2026-10-15 01:32:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec13.pdf
+2026-10-15 01:42:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec39.pdf
+2026-10-15 08:16:00 fileserver01 LOGIN_OK user=mhughes src=10.20.0.41
+2026-10-15 08:25:00 fileserver01 LOGIN_FAIL user=rlee src=10.20.0.44
+2026-10-15 08:37:00 fileserver01 LOGIN_OK user=kwong src=10.20.0.44
+2026-10-15 08:40:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc9.xlsx
+2026-10-15 08:47:00 fileserver01 LOGIN_OK user=tpatel src=10.20.0.42
+2026-10-15 08:52:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc57.xlsx
+2026-10-15 09:22:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc36.xlsx
+2026-10-15 09:26:00 fileserver01 LOGIN_FAIL user=rlee src=10.20.0.41
+2026-10-15 09:47:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc26.xlsx
+2026-10-15 09:52:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-15 10:24:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc1.xlsx
+2026-10-15 10:50:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc54.xlsx
+2026-10-15 11:18:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc24.xlsx
+2026-10-15 11:21:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc58.xlsx
+2026-10-15 11:22:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc19.xlsx
+2026-10-15 11:24:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc16.xlsx
+2026-10-15 11:59:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc29.xlsx
+2026-10-15 12:03:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc33.xlsx
+2026-10-15 12:09:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc40.xlsx
+2026-10-15 12:29:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc10.xlsx
+2026-10-15 12:51:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc59.xlsx
+2026-10-15 13:08:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc6.xlsx
+2026-10-15 13:20:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc36.xlsx
+2026-10-15 13:35:00 fileserver01 LOGIN_FAIL user=kwong src=10.20.0.43
+2026-10-15 14:06:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc32.xlsx
+2026-10-15 14:16:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc15.xlsx
+2026-10-15 14:25:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc30.xlsx
+2026-10-15 14:29:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc5.xlsx
+2026-10-15 14:47:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc41.xlsx
+2026-10-15 15:15:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc20.xlsx
+2026-10-15 15:18:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc47.xlsx
+2026-10-15 15:26:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc31.xlsx
+2026-10-15 15:33:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc52.xlsx
+2026-10-15 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-16 02:07:00 fileserver01 LOGIN_OK user=svc_backup src=198.51.100.237
+2026-10-16 02:17:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec8.pdf
+2026-10-16 02:27:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec36.pdf
+2026-10-16 02:37:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec22.pdf
+2026-10-16 02:47:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec29.pdf
+2026-10-16 08:37:00 fileserver01 LOGIN_OK user=mhughes src=10.20.0.41
+2026-10-16 08:39:00 fileserver01 LOGIN_FAIL user=tpatel src=10.20.0.43
+2026-10-16 09:01:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc3.xlsx
+2026-10-16 09:04:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc45.xlsx
+2026-10-16 09:10:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-16 09:37:00 fileserver01 LOGIN_OK user=kwong src=10.20.0.44
+2026-10-16 09:47:00 fileserver01 LOGIN_OK user=tpatel src=10.20.0.42
+2026-10-16 09:47:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc7.xlsx
+2026-10-16 09:47:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc36.xlsx
+2026-10-16 10:35:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc57.xlsx
+2026-10-16 11:30:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc5.xlsx
+2026-10-16 11:38:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc48.xlsx
+2026-10-16 11:41:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc2.xlsx
+2026-10-16 11:43:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc25.xlsx
+2026-10-16 11:49:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc15.xlsx
+2026-10-16 12:00:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc37.xlsx
+2026-10-16 12:26:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc27.xlsx
+2026-10-16 12:28:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc17.xlsx
+2026-10-16 12:35:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc41.xlsx
+2026-10-16 13:54:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc36.xlsx
+2026-10-16 14:10:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc19.xlsx
+2026-10-16 14:16:00 fileserver01 FILE_READ user=kwong path=/srv/engineering/doc43.xlsx
+2026-10-16 14:32:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc39.xlsx
+2026-10-16 14:52:00 fileserver01 FILE_READ user=rlee path=/srv/sales/doc15.xlsx
+2026-10-16 15:13:00 fileserver01 FILE_READ user=mhughes path=/srv/finance/doc10.xlsx
+2026-10-16 15:26:00 fileserver01 FILE_READ user=tpatel path=/srv/hr/doc4.xlsx
+2026-10-16 18:30:00 fileserver01 LOGIN_OK user=rlee src=10.20.0.43
+2026-10-16 18:35:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file0.xlsx
+2026-10-16 18:35:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file1.xlsx
+2026-10-16 18:35:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file2.xlsx
+2026-10-16 18:35:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file3.xlsx
+2026-10-16 18:35:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file4.xlsx
+2026-10-16 18:35:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file5.xlsx
+2026-10-16 18:36:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file6.xlsx
+2026-10-16 18:36:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file7.xlsx
+2026-10-16 18:36:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file8.xlsx
+2026-10-16 18:36:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file9.xlsx
+2026-10-16 18:36:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file10.xlsx
+2026-10-16 18:36:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file11.xlsx
+2026-10-16 18:37:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file12.xlsx
+2026-10-16 18:37:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file13.xlsx
+2026-10-16 18:37:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file14.xlsx
+2026-10-16 18:37:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file15.xlsx
+2026-10-16 18:37:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file16.xlsx
+2026-10-16 18:37:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file17.xlsx
+2026-10-16 18:38:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file18.xlsx
+2026-10-16 18:38:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file19.xlsx
+2026-10-16 18:38:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file20.xlsx
+2026-10-16 18:38:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file21.xlsx
+2026-10-16 18:38:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file22.xlsx
+2026-10-16 18:38:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file23.xlsx
+2026-10-16 18:39:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file24.xlsx
+2026-10-16 18:39:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file25.xlsx
+2026-10-16 18:39:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file26.xlsx
+2026-10-16 18:39:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file27.xlsx
+2026-10-16 18:39:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file28.xlsx
+2026-10-16 18:39:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file29.xlsx
+2026-10-16 18:40:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file30.xlsx
+2026-10-16 18:40:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file31.xlsx
+2026-10-16 18:40:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file32.xlsx
+2026-10-16 18:40:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file33.xlsx
+2026-10-16 18:40:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file34.xlsx
+2026-10-16 18:40:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file35.xlsx
+2026-10-16 18:41:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file36.xlsx
+2026-10-16 18:41:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file37.xlsx
+2026-10-16 18:41:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file38.xlsx
+2026-10-16 18:41:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file39.xlsx
+2026-10-16 18:41:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file40.xlsx
+2026-10-16 18:41:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file41.xlsx
+2026-10-16 18:42:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file42.xlsx
+2026-10-16 18:42:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file43.xlsx
+2026-10-16 18:42:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file44.xlsx
+2026-10-16 18:42:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file45.xlsx
+2026-10-16 18:42:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file46.xlsx
+2026-10-16 18:42:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file47.xlsx
+2026-10-16 18:43:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file48.xlsx
+2026-10-16 18:43:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file49.xlsx
+2026-10-16 18:43:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file50.xlsx
+2026-10-16 18:43:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file51.xlsx
+2026-10-16 18:43:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file52.xlsx
+2026-10-16 18:43:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file53.xlsx
+2026-10-16 18:44:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file54.xlsx
+2026-10-16 18:44:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file55.xlsx
+2026-10-16 18:44:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file56.xlsx
+2026-10-16 18:44:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file57.xlsx
+2026-10-16 18:44:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file58.xlsx
+2026-10-16 18:44:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file59.xlsx
+2026-10-16 18:45:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file60.xlsx
+2026-10-16 18:45:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file61.xlsx
+2026-10-16 18:45:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file62.xlsx
+2026-10-16 18:45:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file63.xlsx
+2026-10-16 18:45:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file64.xlsx
+2026-10-16 18:45:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file65.xlsx
+2026-10-16 18:46:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file66.xlsx
+2026-10-16 18:46:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file67.xlsx
+2026-10-16 18:46:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file68.xlsx
+2026-10-16 18:46:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file69.xlsx
+2026-10-16 18:46:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file70.xlsx
+2026-10-16 18:46:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file71.xlsx
+2026-10-16 18:47:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file72.xlsx
+2026-10-16 18:47:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file73.xlsx
+2026-10-16 18:47:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file74.xlsx
+2026-10-16 18:47:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file75.xlsx
+2026-10-16 18:47:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file76.xlsx
+2026-10-16 18:47:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file77.xlsx
+2026-10-16 18:48:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file78.xlsx
+2026-10-16 18:48:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file79.xlsx
+2026-10-16 18:48:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file80.xlsx
+2026-10-16 18:48:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file81.xlsx
+2026-10-16 18:48:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file82.xlsx
+2026-10-16 18:48:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file83.xlsx
+2026-10-16 18:49:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file84.xlsx
+2026-10-16 18:49:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file85.xlsx
+2026-10-16 18:49:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file86.xlsx
+2026-10-16 18:49:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file87.xlsx
+2026-10-16 18:49:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file88.xlsx
+2026-10-16 18:49:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file89.xlsx
+2026-10-16 18:50:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file90.xlsx
+2026-10-16 18:50:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file91.xlsx
+2026-10-16 18:50:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file92.xlsx
+2026-10-16 18:50:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file93.xlsx
+2026-10-16 18:50:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file94.xlsx
+2026-10-16 18:50:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file95.xlsx
+2026-10-16 18:51:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file96.xlsx
+2026-10-16 18:51:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file97.xlsx
+2026-10-16 18:51:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file98.xlsx
+2026-10-16 18:51:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file99.xlsx
+2026-10-16 18:51:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file100.xlsx
+2026-10-16 18:51:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file101.xlsx
+2026-10-16 18:52:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file102.xlsx
+2026-10-16 18:52:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file103.xlsx
+2026-10-16 18:52:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file104.xlsx
+2026-10-16 18:52:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file105.xlsx
+2026-10-16 18:52:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file106.xlsx
+2026-10-16 18:52:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file107.xlsx
+2026-10-16 18:53:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file108.xlsx
+2026-10-16 18:53:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file109.xlsx
+2026-10-16 18:53:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file110.xlsx
+2026-10-16 18:53:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file111.xlsx
+2026-10-16 18:53:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file112.xlsx
+2026-10-16 18:53:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file113.xlsx
+2026-10-16 18:54:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file114.xlsx
+2026-10-16 18:54:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file115.xlsx
+2026-10-16 18:54:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file116.xlsx
+2026-10-16 18:54:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file117.xlsx
+2026-10-16 18:54:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file118.xlsx
+2026-10-16 18:54:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file119.xlsx
+2026-10-16 18:55:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file120.xlsx
+2026-10-16 18:55:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file121.xlsx
+2026-10-16 18:55:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file122.xlsx
+2026-10-16 18:55:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file123.xlsx
+2026-10-16 18:55:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file124.xlsx
+2026-10-16 18:55:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file125.xlsx
+2026-10-16 18:56:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file126.xlsx
+2026-10-16 18:56:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file127.xlsx
+2026-10-16 18:56:20 fileserver01 FILE_READ user=rlee path=/srv/hr/file128.xlsx
+2026-10-16 18:56:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file129.xlsx
+2026-10-16 18:56:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file130.xlsx
+2026-10-16 18:56:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file131.xlsx
+2026-10-16 18:57:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file132.xlsx
+2026-10-16 18:57:10 fileserver01 FILE_READ user=rlee path=/srv/hr/file133.xlsx
+2026-10-16 18:57:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file134.xlsx
+2026-10-16 18:57:30 fileserver01 FILE_READ user=rlee path=/srv/hr/file135.xlsx
+2026-10-16 18:57:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file136.xlsx
+2026-10-16 18:57:50 fileserver01 FILE_READ user=rlee path=/srv/hr/file137.xlsx
+2026-10-16 18:58:00 fileserver01 FILE_READ user=rlee path=/srv/finance/file138.xlsx
+2026-10-16 18:58:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file139.xlsx
+2026-10-16 18:58:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file140.xlsx
+2026-10-16 18:58:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file141.xlsx
+2026-10-16 18:58:40 fileserver01 FILE_READ user=rlee path=/srv/hr/file142.xlsx
+2026-10-16 18:58:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file143.xlsx
+2026-10-16 18:59:00 fileserver01 FILE_READ user=rlee path=/srv/hr/file144.xlsx
+2026-10-16 18:59:10 fileserver01 FILE_READ user=rlee path=/srv/finance/file145.xlsx
+2026-10-16 18:59:20 fileserver01 FILE_READ user=rlee path=/srv/finance/file146.xlsx
+2026-10-16 18:59:30 fileserver01 FILE_READ user=rlee path=/srv/finance/file147.xlsx
+2026-10-16 18:59:40 fileserver01 FILE_READ user=rlee path=/srv/finance/file148.xlsx
+2026-10-16 18:59:50 fileserver01 FILE_READ user=rlee path=/srv/finance/file149.xlsx
+2026-10-16 19:00:00 fileserver01 FILE_COPY user=rlee path=/srv/finance/file0.xlsx dest=/media/usb0
+2026-10-16 19:00:05 fileserver01 FILE_COPY user=rlee path=/srv/finance/file1.xlsx dest=/media/usb0
+2026-10-16 19:00:10 fileserver01 FILE_COPY user=rlee path=/srv/finance/file2.xlsx dest=/media/usb0
+2026-10-16 19:00:15 fileserver01 FILE_COPY user=rlee path=/srv/finance/file3.xlsx dest=/media/usb0
+2026-10-16 19:00:20 fileserver01 FILE_COPY user=rlee path=/srv/finance/file4.xlsx dest=/media/usb0
+2026-10-16 19:00:25 fileserver01 FILE_COPY user=rlee path=/srv/finance/file5.xlsx dest=/media/usb0
+2026-10-16 19:00:30 fileserver01 FILE_COPY user=rlee path=/srv/finance/file6.xlsx dest=/media/usb0
+2026-10-16 19:00:35 fileserver01 FILE_COPY user=rlee path=/srv/finance/file7.xlsx dest=/media/usb0
+2026-10-16 19:00:40 fileserver01 FILE_COPY user=rlee path=/srv/finance/file8.xlsx dest=/media/usb0
+2026-10-16 19:00:45 fileserver01 FILE_COPY user=rlee path=/srv/finance/file9.xlsx dest=/media/usb0
+2026-10-16 19:00:50 fileserver01 FILE_COPY user=rlee path=/srv/finance/file10.xlsx dest=/media/usb0
+2026-10-16 19:00:55 fileserver01 FILE_COPY user=rlee path=/srv/finance/file11.xlsx dest=/media/usb0
+2026-10-16 19:01:00 fileserver01 FILE_COPY user=rlee path=/srv/finance/file12.xlsx dest=/media/usb0
+2026-10-16 19:01:05 fileserver01 FILE_COPY user=rlee path=/srv/finance/file13.xlsx dest=/media/usb0
+2026-10-16 19:01:10 fileserver01 FILE_COPY user=rlee path=/srv/finance/file14.xlsx dest=/media/usb0
+2026-10-16 19:01:15 fileserver01 FILE_COPY user=rlee path=/srv/finance/file15.xlsx dest=/media/usb0
+2026-10-16 19:01:20 fileserver01 FILE_COPY user=rlee path=/srv/finance/file16.xlsx dest=/media/usb0
+2026-10-16 19:01:25 fileserver01 FILE_COPY user=rlee path=/srv/finance/file17.xlsx dest=/media/usb0
+2026-10-16 19:01:30 fileserver01 FILE_COPY user=rlee path=/srv/finance/file18.xlsx dest=/media/usb0
+2026-10-16 19:01:35 fileserver01 FILE_COPY user=rlee path=/srv/finance/file19.xlsx dest=/media/usb0
+2026-10-16 19:01:40 fileserver01 FILE_COPY user=rlee path=/srv/finance/file20.xlsx dest=/media/usb0
+2026-10-16 19:01:45 fileserver01 FILE_COPY user=rlee path=/srv/finance/file21.xlsx dest=/media/usb0
+2026-10-16 19:01:50 fileserver01 FILE_COPY user=rlee path=/srv/finance/file22.xlsx dest=/media/usb0
+2026-10-16 19:01:55 fileserver01 FILE_COPY user=rlee path=/srv/finance/file23.xlsx dest=/media/usb0
+2026-10-16 19:02:00 fileserver01 FILE_COPY user=rlee path=/srv/finance/file24.xlsx dest=/media/usb0
+2026-10-16 19:02:05 fileserver01 FILE_COPY user=rlee path=/srv/finance/file25.xlsx dest=/media/usb0
+2026-10-16 19:02:10 fileserver01 FILE_COPY user=rlee path=/srv/finance/file26.xlsx dest=/media/usb0
+2026-10-16 19:02:15 fileserver01 FILE_COPY user=rlee path=/srv/finance/file27.xlsx dest=/media/usb0
+2026-10-16 19:02:20 fileserver01 FILE_COPY user=rlee path=/srv/finance/file28.xlsx dest=/media/usb0
+2026-10-16 19:02:25 fileserver01 FILE_COPY user=rlee path=/srv/finance/file29.xlsx dest=/media/usb0
+2026-10-16 19:02:30 fileserver01 FILE_COPY user=rlee path=/srv/finance/file30.xlsx dest=/media/usb0
+2026-10-16 19:02:35 fileserver01 FILE_COPY user=rlee path=/srv/finance/file31.xlsx dest=/media/usb0
+2026-10-16 19:02:40 fileserver01 FILE_COPY user=rlee path=/srv/finance/file32.xlsx dest=/media/usb0
+2026-10-16 19:02:45 fileserver01 FILE_COPY user=rlee path=/srv/finance/file33.xlsx dest=/media/usb0
+2026-10-16 19:02:50 fileserver01 FILE_COPY user=rlee path=/srv/finance/file34.xlsx dest=/media/usb0
+2026-10-16 19:02:55 fileserver01 FILE_COPY user=rlee path=/srv/finance/file35.xlsx dest=/media/usb0
+2026-10-16 19:03:00 fileserver01 FILE_COPY user=rlee path=/srv/finance/file36.xlsx dest=/media/usb0
+2026-10-16 19:03:05 fileserver01 FILE_COPY user=rlee path=/srv/finance/file37.xlsx dest=/media/usb0
+2026-10-16 19:03:10 fileserver01 FILE_COPY user=rlee path=/srv/finance/file38.xlsx dest=/media/usb0
+2026-10-16 19:03:15 fileserver01 FILE_COPY user=rlee path=/srv/finance/file39.xlsx dest=/media/usb0
+2026-10-16 19:03:20 fileserver01 FILE_COPY user=rlee path=/srv/finance/file40.xlsx dest=/media/usb0
+2026-10-16 19:03:25 fileserver01 FILE_COPY user=rlee path=/srv/finance/file41.xlsx dest=/media/usb0
+2026-10-16 19:03:30 fileserver01 FILE_COPY user=rlee path=/srv/finance/file42.xlsx dest=/media/usb0
+2026-10-16 19:03:35 fileserver01 FILE_COPY user=rlee path=/srv/finance/file43.xlsx dest=/media/usb0
+2026-10-16 19:03:40 fileserver01 FILE_COPY user=rlee path=/srv/finance/file44.xlsx dest=/media/usb0
+2026-10-16 19:03:45 fileserver01 FILE_COPY user=rlee path=/srv/finance/file45.xlsx dest=/media/usb0
+2026-10-16 19:03:50 fileserver01 FILE_COPY user=rlee path=/srv/finance/file46.xlsx dest=/media/usb0
+2026-10-16 19:03:55 fileserver01 FILE_COPY user=rlee path=/srv/finance/file47.xlsx dest=/media/usb0
+2026-10-16 19:04:00 fileserver01 FILE_COPY user=rlee path=/srv/finance/file48.xlsx dest=/media/usb0
+2026-10-16 19:04:05 fileserver01 FILE_COPY user=rlee path=/srv/finance/file49.xlsx dest=/media/usb0
+2026-10-16 19:04:10 fileserver01 FILE_COPY user=rlee path=/srv/finance/file50.xlsx dest=/media/usb0
+2026-10-16 19:04:15 fileserver01 FILE_COPY user=rlee path=/srv/finance/file51.xlsx dest=/media/usb0
+2026-10-16 19:04:20 fileserver01 FILE_COPY user=rlee path=/srv/finance/file52.xlsx dest=/media/usb0
+2026-10-16 19:04:25 fileserver01 FILE_COPY user=rlee path=/srv/finance/file53.xlsx dest=/media/usb0
+2026-10-16 19:04:30 fileserver01 FILE_COPY user=rlee path=/srv/finance/file54.xlsx dest=/media/usb0
+2026-10-16 19:04:35 fileserver01 FILE_COPY user=rlee path=/srv/finance/file55.xlsx dest=/media/usb0
+2026-10-16 19:04:40 fileserver01 FILE_COPY user=rlee path=/srv/finance/file56.xlsx dest=/media/usb0
+2026-10-16 19:04:45 fileserver01 FILE_COPY user=rlee path=/srv/finance/file57.xlsx dest=/media/usb0
+2026-10-16 19:04:50 fileserver01 FILE_COPY user=rlee path=/srv/finance/file58.xlsx dest=/media/usb0
+2026-10-16 19:04:55 fileserver01 FILE_COPY user=rlee path=/srv/finance/file59.xlsx dest=/media/usb0
+2026-10-16 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-17 03:13:00 fileserver01 LOGIN_OK user=svc_backup src=198.51.100.237
+2026-10-17 03:23:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec33.pdf
+2026-10-17 03:33:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec17.pdf
+2026-10-17 03:43:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec18.pdf
+2026-10-17 03:53:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec38.pdf
+2026-10-17 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
+2026-10-18 03:44:00 fileserver01 LOGIN_OK user=svc_backup src=203.0.113.166
+2026-10-18 03:54:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec17.pdf
+2026-10-18 04:04:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec27.pdf
+2026-10-18 04:14:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec4.pdf
+2026-10-18 04:24:00 fileserver01 FILE_READ user=svc_backup path=/srv/contracts/spec19.pdf
+2026-10-18 04:34:00 fileserver01 FILE_READ user=svc_backup path=/srv/engineering/spec5.pdf
+2026-10-18 23:00:00 fileserver01 LOGIN_OK user=svc_backup src=10.20.0.5
